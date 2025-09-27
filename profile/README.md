@@ -1,7 +1,7 @@
 <h1 align="center">
-fvst.pl
+Onecore
 </h1>
-Witamy na stronie GitHub **fvst.pl**! Jesteśmy nowatorskim kolektywem technologicznym, który dąży do rewolucjonizowania branży za pomocą innowacyjnych rozwiązań.
+Witamy na stronie GitHub onecore! Jesteśmy nowatorskim kolektywem technologicznym, który dąży do rewolucjonizowania branży za pomocą innowacyjnych rozwiązań.
 
 <h3 align="center">
 🌟 Nasza Misja
@@ -61,5 +61,5 @@ Dołącz do nas w naszej misji, aby uczynić świat technologii lepszym miejscem
 
 ---
 <p align="center">
-© 2024 FVST. Wszelkie prawa zastrzeżone.
+© 2025 onecore. Wszelkie prawa zastrzeżone.
 </p>
